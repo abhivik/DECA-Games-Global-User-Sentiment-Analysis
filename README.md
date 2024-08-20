@@ -34,7 +34,7 @@ Thirteen popular games developed by DECA Games were selected for user sentiment 
 ### 2. Geographic Scope
 A total of 23 countries were chosen to ensure a comprehensive analysis, representing different regions:
 
-- United States, United Kingdom, Germany, France, Italy, Spain, Russia, Japan, South Korea, India, China, Singapore, United Arab Emirates, Canada, Australia, Brazil, Mexico, South Africa, New Zealand, Turkey, Vietnam, Poland, Netherlands.
+- United States, United Kingdom, Germany, France, Italy, Spain, Russia, Japan, South Korea, India, China, Singapore, United Arab Emirates, Canada, Australia, Brazil, Mexico, South Africa, New Zealand, Turkey, Vietnam, Poland, Netherlands. 
 
 ### 3. Data Collection
 #### Google Play Store:
@@ -46,6 +46,8 @@ The `google_play_scraper` Python library was used to scrape user reviews from th
 Similarly, the `app_store_scraper` Python library was used to gather and process reviews from the Apple App Store.
 - [Apple App Store Scraper Script](https://github.com/abhivik/DECA-Games-Global-User-Sentiment-Analysis/blob/main/Apple_Store_scrapper.ipynb)
 - [Processed Data](https://github.com/abhivik/DECA-Games-Global-User-Sentiment-Analysis/blob/main/apple_store_processed.csv)
+
+### 100 reviews for each game across different countries were extracted.
 
 ### 4. Data Processing
 After scraping data from both stores, the datasets were combined and cleaned for further analysis. This included removing duplicates, handling missing values, and ensuring consistency across the datasets.
