@@ -15,19 +15,19 @@ This project is focused on analyzing user reviews for various games developed by
 ### 1. Selection of Games
 Thirteen popular games developed by DECA Games were selected for user sentiment analysis. These games include:
 
-- The Walking Dead: No Man's Land [Google Play Store](https://play.google.com/store/apps/details?id=com.nextgames.android.twd) [App Store](https://apps.apple.com/us/app/the-walking-dead-no-mans-land/id970417047) 
-- Dead Trigger 2 [Google Play Store](https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger2) [App Store](https://apps.apple.com/us/app/dead-trigger-2-zombie-games/id720063540)
-- Shadowgun Legends [Google Play Store](https://play.google.com/store/apps/details?id=com.madfingergames.legends) [App Store](https://apps.apple.com/gb/app/shadowgun-legends-online-fps/id1091251242)
-- Dead Trigger [Google Play Store](https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger) [App Store](https://apps.apple.com/us/app/dead-trigger-survival-shooter/id533079551)
-- Samurai II: Vengeance [Google Play Store](https://play.google.com/store/apps/details?id=com.madfingergames.SamuraiIIAll) [App Store](https://apps.apple.com/us/app/samurai-2-vengeance/id392486160)
-- Celtic Heroes [Google Play Store](https://play.google.com/store/apps/details?id=com.onethumbmobile.celticheroes) [App Store](https://apps.apple.com/us/app/celtic-heroes-mobile-mmorpg/id431837446)
-- Unkilled [Google Play Store](https://play.google.com/store/apps/details?id=com.madfingergames.unkilled) [App Store](https://apps.apple.com/us/app/unkilled-zombie-online-fps/id969488951)
-- Call me a Legend [Google Play Store](https://play.google.com/store/apps/details?id=com.sixwaves.cml&hl=en&gl=US) [App Store](https://apps.apple.com/us/app/call-me-a-legend/id1449121741)
-- Call me a Gangsta [Google Play Store](https://play.google.com/store/apps/details?id=com.empirestudiosinc.cmg&hl=en&gl=US) [App Store](https://apps.apple.com/us/app/call-me-a-gangsta/id1530493373)
-- Robbery Bob [Google Play Store](https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row) [App Store](https://apps.apple.com/us/app/robbery-bob-king-of-sneak/id503869041)
-- Robbery Bob 2 [Google Play Store](https://play.google.com/store/apps/details?id=com.chillingo.robberybob2.android.gplay) [App Store](https://apps.apple.com/us/app/robbery-bob-2-comic-thief/id974514406)
-- Gods and Glory [Google Play Store](https://play.google.com/store/apps/details?id=com.fridaysgames.godsandglory) [App Store](https://apps.apple.com/us/app/gods-and-glory-war-of-thrones/id1050101469)
-- DragonVale [Google Play Store](https://play.google.com/store/apps/details?id=com.backflipstudios.android.dragonvale) [App Store](https://apps.apple.com/us/app/dragonvale/id440045374)
+- The Walking Dead: No Man's Land     [Google Play Store](https://play.google.com/store/apps/details?id=com.nextgames.android.twd)     [App Store](https://apps.apple.com/us/app/the-walking-dead-no-mans-land/id970417047) 
+- Dead Trigger 2     [Google Play Store](https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger2)     [App Store](https://apps.apple.com/us/app/dead-trigger-2-zombie-games/id720063540)
+- Shadowgun Legends     [Google Play Store](https://play.google.com/store/apps/details?id=com.madfingergames.legends)     [App Store](https://apps.apple.com/gb/app/shadowgun-legends-online-fps/id1091251242)
+- Dead Trigger     [Google Play Store](https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger)     [App Store](https://apps.apple.com/us/app/dead-trigger-survival-shooter/id533079551)
+- Samurai II: Vengeance     [Google Play Store](https://play.google.com/store/apps/details?id=com.madfingergames.SamuraiIIAll)     [App Store](https://apps.apple.com/us/app/samurai-2-vengeance/id392486160)
+- Celtic Heroes     [Google Play Store](https://play.google.com/store/apps/details?id=com.onethumbmobile.celticheroes)     [App Store](https://apps.apple.com/us/app/celtic-heroes-mobile-mmorpg/id431837446)
+- Unkilled     [Google Play Store](https://play.google.com/store/apps/details?id=com.madfingergames.unkilled)     [App Store](https://apps.apple.com/us/app/unkilled-zombie-online-fps/id969488951)
+- Call me a Legend     [Google Play Store](https://play.google.com/store/apps/details?id=com.sixwaves.cml&hl=en&gl=US)     [App Store](https://apps.apple.com/us/app/call-me-a-legend/id1449121741)
+- Call me a Gangsta     [Google Play Store](https://play.google.com/store/apps/details?id=com.empirestudiosinc.cmg&hl=en&gl=US)     [App Store](https://apps.apple.com/us/app/call-me-a-gangsta/id1530493373)
+- Robbery Bob     [Google Play Store](https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row)     [App Store](https://apps.apple.com/us/app/robbery-bob-king-of-sneak/id503869041)
+- Robbery Bob 2     [Google Play Store](https://play.google.com/store/apps/details?id=com.chillingo.robberybob2.android.gplay)     [App Store](https://apps.apple.com/us/app/robbery-bob-2-comic-thief/id974514406)
+- Gods and Glory     [Google Play Store](https://play.google.com/store/apps/details?id=com.fridaysgames.godsandglory)      [App Store](https://apps.apple.com/us/app/gods-and-glory-war-of-thrones/id1050101469)
+- DragonVale     [Google Play Store](https://play.google.com/store/apps/details?id=com.backflipstudios.android.dragonvale)     [App Store](https://apps.apple.com/us/app/dragonvale/id440045374)
 
 ### 2. Geographic Scope
 A total of 23 countries were chosen to ensure a comprehensive analysis, representing different regions:
