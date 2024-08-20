@@ -1,4 +1,4 @@
-# DECA Games Community Sentiment and Feedback Analysis for Game KPI Improvement
+# DECA Games Global User Sentiment Analysis
 
 ## Project Overview
 
