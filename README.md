@@ -75,10 +75,5 @@ The analysis provides valuable insights into how DECA Games' titles are perceive
 - Incorporating additional data sources, such as social media sentiment analysis, for a more comprehensive view of user feedback.
 - Exploring advanced machine learning techniques for sentiment analysis to improve the accuracy and depth of insights.
 
-## Repository Structure
-- **/data**: Contains the final processed dataset used for analysis.
-- **/scripts**: Includes all Python scripts used for scraping and data processing.
-- **/visualizations**: Links to the Tableau Public dashboard and any static images of visualizations.
-
 ## Contact
-For any inquiries or further discussion about this project, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/abhijit-mandape) or [Email](mailto:abhijit.mandape@example.com).
+For any inquiries or further discussion about this project, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/abhijit-mandape) or [Email](mailto:abhijit.mandape@gmail.com).
